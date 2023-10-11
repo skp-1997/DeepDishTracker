@@ -1,5 +1,5 @@
 # Count_Object_Dishes
-The objective is to count the plates using object detection and object tracking. The repository used the PyimageSearch Simple Object Tracking code frome [here](https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/). The object detection model used is pre-trained Faster R-CNN model trained on Detectron2 framework and a custom dataset.
+The objective is to count the plates using object detection and object tracking. The repository used the PyimageSearch Simple Object Tracking code frome [here](https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/). The object detection model used is pre-trained Faster R-CNN model trained on [Detectron2](https://github.com/facebookresearch/detectron2) framework and a custom dataset.
 
 
 
